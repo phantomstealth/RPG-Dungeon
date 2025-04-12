@@ -1,0 +1,91 @@
+fileFormatVersion: 2
+guid: 232b5bc8fdbdf8944a856cf57978e420
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/First_Map
+    100002: _MapPrfab/First_Map/Objects
+    100004: _MapPrfab/First_Map/Terrain1
+    100006: _MapPrfab/First_Map/Terrain2
+    100008: _MapPrfab/First_Map/Water
+    400000: _MapPrfab/First_Map/Transform
+    400002: _MapPrfab/First_Map/Objects/Transform
+    400004: _MapPrfab/First_Map/Terrain1/Transform
+    400006: _MapPrfab/First_Map/Terrain2/Transform
+    400008: _MapPrfab/First_Map/Water/Transform
+    11400000: _MapPrfab/First_Map/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _superAsset
+    11400004: _MapPrfab/First_Map/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400006: _MapPrfab/First_Map/Objects/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400008: _MapPrfab/First_Map/Objects/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400010: _MapPrfab/First_Map/Objects/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400012: _MapPrfab/First_Map/Terrain1/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400014: _MapPrfab/First_Map/Terrain1/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400016: _MapPrfab/First_Map/Terrain1/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400018: _MapPrfab/First_Map/Terrain2/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400020: _MapPrfab/First_Map/Terrain2/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400022: _MapPrfab/First_Map/Terrain2/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400024: _MapPrfab/First_Map/Water/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400026: _MapPrfab/First_Map/Water/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400028: _MapPrfab/First_Map/Water/MonoBehaviour-SuperTiled2Unity.TilemapData
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/First_Map/Grid
+    3664157343022684176: _MapPrfab/First_Map/Objects/TilemapRenderer
+    3664157343022684178: _MapPrfab/First_Map/Terrain1/TilemapRenderer
+    3664157343022684180: _MapPrfab/First_Map/Terrain2/TilemapRenderer
+    3664157343022684182: _MapPrfab/First_Map/Water/TilemapRenderer
+    8195094279510102542: _MapPrfab/First_Map/Objects/Tilemap
+    8195094279510102544: _MapPrfab/First_Map/Terrain1/Tilemap
+    8195094279510102546: _MapPrfab/First_Map/Terrain2/Tilemap
+    8195094279510102548: _MapPrfab/First_Map/Water/Tilemap
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  missingFiles: []
+  errors:
+  - Errors detected in tileset 'TiledStandartRPG.tsx'. Check the tileset inspector
+    for more details. Your map may be broken until these are fixed.
+  - Could not find tile 6. Make sure the tilesets were successfully imported.
+  - Could not find tile 521. Make sure the tilesets were successfully imported.
+  - Could not find tile 522. Make sure the tilesets were successfully imported.
+  - Could not find tile 523. Make sure the tilesets were successfully imported.
+  - Could not find tile 577. Make sure the tilesets were successfully imported.
+  - Could not find tile 579. Make sure the tilesets were successfully imported.
+  - Could not find tile 576. Make sure the tilesets were successfully imported.
+  - Could not find tile 519. Make sure the tilesets were successfully imported.
+  - Could not find tile 520. Make sure the tilesets were successfully imported.
+  - Could not find tile 636. Make sure the tilesets were successfully imported.
+  - Could not find tile 637. Make sure the tilesets were successfully imported.
+  - Could not find tile 635. Make sure the tilesets were successfully imported.
+  - Could not find tile 580. Make sure the tilesets were successfully imported.
+  - Could not find tile 578. Make sure the tilesets were successfully imported.
+  - Could not find tile 4. Make sure the tilesets were successfully imported.
+  - Could not find tile 5. Make sure the tilesets were successfully imported.
+  - Could not find tile 232. Make sure the tilesets were successfully imported.
+  - Could not find tile 61. Make sure the tilesets were successfully imported.
+  - Could not find tile 115. Make sure the tilesets were successfully imported.
+  - Could not find tile 118. Make sure the tilesets were successfully imported.
+  - Could not find tile 59. Make sure the tilesets were successfully imported.
+  - Could not find tile 117. Make sure the tilesets were successfully imported.
+  - Could not find tile 62. Make sure the tilesets were successfully imported.
+  - Could not find tile 60. Make sure the tilesets were successfully imported.
+  - Could not find tile 119. Make sure the tilesets were successfully imported.
+  - Could not find tile 3. Make sure the tilesets were successfully imported.
+  - Could not find tile 116. Make sure the tilesets were successfully imported.
+  - Could not find tile 58. Make sure the tilesets were successfully imported.
+  - Could not find tile 587. Make sure the tilesets were successfully imported.
+  - Could not find tile 644. Make sure the tilesets were successfully imported.
+  - Could not find tile 527. Make sure the tilesets were successfully imported.
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 352610ca455194d43809d6057e4348c6
+  - enabled: 1
+    path: Assets/Scenes/HouseForester.unity
+    guid: 3ff3f6fa52c648742a97e2b812cb1e44
+  - enabled: 1
+    path: Assets/Scenes/Village.unity
+    guid: 527169dda880eaf48a33e2288bd50050
+  - enabled: 1
+    path: Assets/Scenes/Cave.unity
+    guid: 1d80721df1a15fd4785dd9b6f11add57
+  - enabled: 1
+    path: Assets/Scenes/Dungeon.unity
+    guid: 2e793d1db5d7cd746974e3b12219565b
+  - enabled: 1
+    path: Assets/Scenes/GreenForest.unity
+    guid: 36a4b3fabd3c3624c8170df7871c6155
+  m_configObjects: {}
